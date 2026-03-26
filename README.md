@@ -1,3 +1,6 @@
+## The Mind Game
+![WIKI](https://github.com/Srzlays/The-Mind-Game----Data-Structure-2026-1.wiki.git)
+
 # Sobre el Juego.
 Esta es una aproximación al juego de cartas "The Mind" desarrollada en lenguaje de programación c++ para consola de linux.
 
@@ -16,4 +19,4 @@ g++ main.cpp Carta.cpp Jugador.cpp Juego.cpp -o main.out
 ```bash
 .\main.out
 ```
-Para ejecutarse en otras distribuciones como Windows o Mac se recomeinda seguir consultar en la bibliografía de dicho sistema el proceso de compilacion y ejecucion de archivos con extención .cpp. 
+Para ejecutarse en otras distribuciones como Windows o Mac se recomeinda consultar en la bibliografía de dicho sistema el proceso de compilacion y ejecucion de archivos con extención .cpp. 
