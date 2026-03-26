@@ -13,6 +13,7 @@ ctrl + alt + t
 g++ main.cpp Carta.cpp Jugador.cpp Juego.cpp -o main.out
 ```
 3. Se ejecuta con:
+```bash
 .\main.out
 ```
 Para ejecutarse en otras distribuciones como Windows o Mac se recomeinda seguir consultar en la bibliografía de dicho sistema el proceso de compilacion y ejecucion de archivos con extención .cpp. 
