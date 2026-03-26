@@ -1,5 +1,5 @@
 ## The Mind Game
-![WIKI](https://github.com/Srzlays/The-Mind-Game----Data-Structure-2026-1.wiki.git)
+![WIKI](https://github.com/Srzlays/The-Mind-Game----Data-Structure-2026-1/wiki)
 
 # Sobre el Juego.
 Esta es una aproximación al juego de cartas "The Mind" desarrollada en lenguaje de programación c++ para consola de linux.
